@@ -2,7 +2,7 @@ echo "# 🎬 Movieclub
 
 Süleyman Demirel Üniversitesi Film Kulübü için geliştirilen web tabanlı dizi arama ve gösterim listesi uygulaması.  
 
-🔗 **Canlı Demo:** [Movieclub](https://movieclub-hediyesert.vercel.app)  
+🔗 **Canlı Demo:** [Movieclub](https://movie-club-alpha.vercel.app/)  
 
 ## 🚀 Özellikler
 - TVMaze API ile dizi arama  
